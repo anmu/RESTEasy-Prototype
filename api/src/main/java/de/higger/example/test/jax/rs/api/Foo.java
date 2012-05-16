@@ -1,12 +1,6 @@
 package de.higger.example.test.jax.rs.api;
 
-
 public class Foo {
-    /**
-     * Serial id.
-     */
-    private static final long serialVersionUID = 4236357454721555733L;
-
     private String bar;
 
     public String getBar() {
